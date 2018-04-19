@@ -163,6 +163,9 @@ class SignIndexActionTest(TestCase):
         self.assertEqual(response.status_code, 200)
         self.assertIn(b"sign in success!", response.content)
 
+    def  test_sign_error(self):
+        self.assertEqual(0,1)
+
 
 '''
 运行所有用例：
