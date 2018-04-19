@@ -6,7 +6,7 @@ import requests
 class AddEventTest(unittest.TestCase):
 
     def setUp(self):
-        self.base_url = "http://127.0.0.1:8000/api/add_event/"
+        self.base_url = "http://localhost:8200/api/add_event/"
 
     def test_add_event_all_null(self):
         ''' 所有参数为空 '''
