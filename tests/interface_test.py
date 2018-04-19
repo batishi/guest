@@ -97,7 +97,7 @@ class GetEventListTest(unittest.TestCase):
 class AddGuessTest(unittest.TestCase):
 
     def setUp(self):
-        self.base_url = "http://127.0.0.1:8000/api/add_guest/"
+        self.base_url = "http://127.0.0.1:8200/api/add_guest/"
 
     def test_add_guest_all_null(self):
         ''' 参数为空 '''

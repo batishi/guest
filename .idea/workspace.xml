@@ -36,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sign/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="222">
               <caret line="163" column="60" lean-forward="false" selection-start-line="163" selection-start-column="60" selection-end-line="163" selection-end-column="60" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -48,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interface_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="interface_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/interface_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4063">
-              <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state relative-caret-position="238">
+              <caret line="99" column="44" lean-forward="false" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -69,8 +69,8 @@
         <option value="$PROJECT_DIR$/sign/function_tests/interface_test.py" />
         <option value="$PROJECT_DIR$/sign/views_if.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/tests/interface_test.py" />
         <option value="$PROJECT_DIR$/sign/tests.py" />
+        <option value="$PROJECT_DIR$/tests/interface_test.py" />
       </list>
     </option>
   </component>
@@ -330,21 +330,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/interface_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4063">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sign/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="222">
           <caret line="163" column="60" lean-forward="false" selection-start-line="163" selection-start-column="60" selection-end-line="163" selection-end-column="60" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/interface_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="99" column="44" lean-forward="false" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
