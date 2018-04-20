@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85178937-3808-43a5-a465-cb8c05980a30" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sign/tests.py" afterPath="$PROJECT_DIR$/sign/tests.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/interface_test.py" afterPath="$PROJECT_DIR$/tests/interface_test.py" />
     </list>
     <ignored path="guest.iws" />
@@ -51,8 +50,8 @@
       <file leaf-file-name="interface_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/interface_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="99" column="44" lean-forward="false" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+            <state relative-caret-position="-764">
+              <caret line="206" column="45" lean-forward="false" selection-start-line="206" selection-start-column="45" selection-end-line="206" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -342,8 +341,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/interface_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="99" column="44" lean-forward="false" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+        <state relative-caret-position="-764">
+          <caret line="206" column="45" lean-forward="false" selection-start-line="206" selection-start-column="45" selection-end-line="206" selection-end-column="45" />
           <folding />
         </state>
       </provider>
